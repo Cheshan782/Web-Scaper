@@ -1,3 +1,7 @@
-#h3{
-    color: blue;
+#feed{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-color: black;
 }

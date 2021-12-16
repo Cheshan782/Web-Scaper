@@ -7,7 +7,6 @@ const cors = require('cors')
 app.use(cors())
 
 const url = 'https://www.theguardian.com'
-
 //app.METHOD(PATH, HANDLER)
 
 //app.get('/', function (req, res) {
