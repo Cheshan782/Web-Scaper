@@ -7,7 +7,7 @@ const cors = require('cors')
 app.use(cors())
 
 
-const url = 'https://www.theguardian.com'
+const url = 'https://www.vistek.ca/category/cameras?hierarchicalMenu%5Bcategories.lvl0%5D%5B0%5D=Cameras&range%5BunitPrice%5D=0%3A'
 //app.METHOD(PATH, HANDLER)
 
 //app.get('/', function (req, res) {
